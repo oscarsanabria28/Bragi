@@ -1,0 +1,22 @@
+{
+  "name": "bragi",
+  "version": "1.0.0",
+  "description": "Tool Managment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarsanabria28/Bragi.git"
+  },
+  "keywords": [
+    "Scrum"
+  ],
+  "author": "oscarsanabria28@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarsanabria28/Bragi/issues"
+  },
+  "homepage": "https://github.com/oscarsanabria28/Bragi#readme"
+}
