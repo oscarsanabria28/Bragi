@@ -5,7 +5,7 @@ var Logger = require('./my_classes/utils/Logger.js');
 
 app.get('/', (req,res)=>{
 	Logger.debug("Oscar");
-	res.send("Hello");
+	res.send('<h1 align="center">Hello</h1>');
 });
 
 var server= app.listen(9002, ()=>{
