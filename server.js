@@ -8,6 +8,6 @@ app.get('/', (req,res)=>{
 	res.send('<h1 align="center">Hello</h1>');
 });
 
-var server= app.listen(9002, ()=>{
+var server= app.listen(process.env.PORT || 3000, ()=>{
 	console.log('New local server for Bragi Tools is ready at port 9002');
 });
