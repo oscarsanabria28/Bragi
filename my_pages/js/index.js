@@ -41,3 +41,7 @@ $('.tab a').on('click', function (e) {
   $(target).fadeIn(600);
   
 });
+
+function IniciaSesion(){
+  alert("Hello! I am an alert box!!");
+}
