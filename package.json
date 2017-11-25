@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/oscarsanabria28/Bragi/issues"
   },
-  "homepage": "https://github.com/oscarsanabria28/Bragi#readme"
+  "homepage": "https://github.com/oscarsanabria28/Bragi#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
 }
